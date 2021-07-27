@@ -1,3 +1,3 @@
 # Calculadora de Vencimento de Fatura
 
-Na aplicação, a tarefa é adicionar 10 dias ao vencimento esperado e fazer a atualização da data de vencimento, implementando a exceção de sempre ser um vencimento util, assim, caso a data seja um sabado ou domingo, o vencimento irá para o próximo dia útil.
+Na aplicação, o cliente tem 10 dias para realizar o pagaemnto de uma fatura sem correr juros, dessa forma, é feito a atualização da data de vencimento, implementando a exceção de sempre ser um vencimento util, assim, caso a data seja um sabado ou domingo, o vencimento irá para o próximo dia útil.
